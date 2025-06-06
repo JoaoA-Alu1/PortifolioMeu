@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+20&display=swap');
+
+:root {
+    --cor-principal: #e3e3e3;
+    --cor-secundaria: #575757;
+    --cor-destaque: #f7d619; 
+};
+
+body {
+    font-family: 'Jersey 20', sans-serif;
+};
+
+h5 {
+    color:var(--cor-secundaria);
+    font-weight: 700;
+};
+
